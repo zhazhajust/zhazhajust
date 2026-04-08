@@ -27,8 +27,8 @@ I’ve contributed to both theoretical modeling and large-scale simulation tools
 
 ## 🔧 Featured Projects
 
-- 🌀 [**WarpX/Smilei THz Modules**](https://github.com/zhazhajust): Developed focused beam and spin tracking modules; enabled 20x speedup in THz propagation simulations.
-- 🛰️ [**FarRadio_cmake**](https://github.com/zhazhajust/FarRadio_cmake): Modular radiation analysis tool based on retarded potential theory; supports spin and phase extraction in time domain.
+- 🌀 [**WarpX/Smilei THz Modules**](https://github.com/jiecaix): Developed focused beam and spin tracking modules; enabled 20x speedup in THz propagation simulations.
+- 🛰️ [**FarRadio_cmake**](https://github.com/jiecaix/FarRadio_cmake): Modular radiation analysis tool based on retarded potential theory; supports spin and phase extraction in time domain.
 - 🎥 [**Camera System**](https://github.com/CLAPA-OPTICS/camera-front): Built backend/frontend for femtosecond pulse diagnostics via high-speed camera data streaming.
 
 ---
@@ -53,8 +53,8 @@ I’ve contributed to both theoretical modeling and large-scale simulation tools
 ## 📫 Let's Connect
 
 - 📧 Email: jiecai@stu.pku.edu.cn  
-- 🌐 GitHub: [zhazhajust](https://github.com/zhazhajust)  
-- 📝 Blog: [zhazhajust.github.io](https://zhazhajust.github.io)  
+- 🌐 GitHub: [jiecaix](https://github.com/jiecaix)  
+- 📝 Blog: [jiecaix.github.io](https://jiecaix.github.io)  
 - 📍 Beijing, China
 
 ---
